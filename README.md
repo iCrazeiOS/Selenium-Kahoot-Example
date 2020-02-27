@@ -1,6 +1,8 @@
 ## Notice
 
-This requires []chromedriver(https://chromedriver.chromium.org/). Once you download the correct version, place it in the same directory as main.py
+This requires [chromedriver](https://chromedriver.chromium.org/). Once you download the correct version, place it in the same directory as main.py
+
+The version in this project is for Chrome 80, MacOS
 
 ## What is this?
 
